@@ -1,0 +1,41 @@
+Notes app
+---------
+
+But allow embedding/linking of other media
+ - sound
+ - image
+ - other text
+ - videos
+
+web but for notes
+ - bc links
+ - seeing links makes it easier to follow/more logical
+
+edit/view on multiple platforms
+
+Visual representation of relationships between content
+ - not basic premise
+ - potential future thing
+ - have some kind of diagram
+
+links should be two way
+
+Tracked media should be viewable from within app
+
+(media is image/video/sound/note etc)
+
+Notes should be organisable (folder-type things)
+
+Sidebar should be scrollable
+
+
+
+Write down general what we think it should do
+
+User stories (at least 4)
+
+UI mock ups
+
+Basic architecture
+
+Split up some tasks
