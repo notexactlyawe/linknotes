@@ -19,30 +19,30 @@ Functionality
 Organisation
 -------------
 
-    * O01 App must allow for creation of folders and segregation of notes into them.
-    * O02 App should have the ability to upload media.
-    * O03 App must allow the creatin of new notes by the user.
+   * O01 App must allow for creation of folders and segregation of notes into them.
+   * O02 App should have the ability to upload media.
+   * O03 App must allow the creatin of new notes by the user.
 
 
 Synch and sharing
 ------------------
 
-    * S01 App must allow for the notes to be moved between folders.
-    * S02 App must update notes. *
-    * S03 App should allow note sharing between different platforms. 
-    * S04 App should support multpile platforms (mobile, laptop etc.)
+   * S01 App must allow for the notes to be moved between folders.
+   * S02 App must update notes. *
+   * S03 App should allow note sharing between different platforms. 
+   * S04 App should support multpile platforms (mobile, laptop etc.)
 
 
 Interface
 -----------
 
-    * I01 App must contain a main screen.
-    * I02 App must allow the user to display notes on the main screen.
-    * I03 App should allow for display of the items as tiles.
-    * I04 App should allow for display of the items as a list.
-    * I05 App must contian an "add" button allowing the user to create new notes and folders from within the main screen.
-    * I06 App should contain a "embed note" button within the note screen.
-    * I07 App should allow deletion of the note from a menu button.
-    * I08 App should allow deletion of the note by long press.
-    * I09 App must allow for the embeding of media by placing a cursor in the appropriate place within the note/medium.
-    * I10 App must allow the upload of new media either from the main menu or from within the note.
+   * I01 App must contain a main screen.
+   * I02 App must allow the user to display notes on the main screen.
+   * I03 App should allow for display of the items as tiles.
+   * I04 App should allow for display of the items as a list.
+   * I05 App must contian an "add" button allowing the user to create new notes and folders from within the main screen.
+   * I06 App should contain a "embed note" button within the note screen.
+   * I07 App should allow deletion of the note from a menu button.
+   * I08 App should allow deletion of the note by long press.
+   * I09 App must allow for the embeding of media by placing a cursor in the appropriate place within the note/medium.
+   * I10 App must allow the upload of new media either from the main menu or from within the note.
