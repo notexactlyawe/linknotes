@@ -1,19 +1,18 @@
-Requirments
+Requirements
 ===========
 
 
 Functionality
 --------------
 
-   * F01 App must have a (specific) * format for storing notes.
+   * F01 App must be able to store arbitrarily many notes.
    * F02 App must allow for the notes to be stored in the specific format.
    * F03 App must allow for the notes to be retrieved.
-   * F04 App must allow for note deletion | at the users request. *
+   * F04 App must allow for note deletion.
    * F05 App must allow the embedding of exisitng media within the note.
    * F06 App should create two way links between embedded notes.
    * F07 App should allow the creation of links between any two or more media/notes.
-   * F08 App should contain an image viewer within the application.
-   * F09 App should contain a video viewer within the application.
+   * F08 App should have image viewer functionality.
 
 
 Organisation
@@ -22,15 +21,15 @@ Organisation
    * O01 App must allow for creation of folders and segregation of notes into them.
    * O02 App should have the ability to upload media.
    * O03 App must allow the creatin of new notes by the user.
+   * O04 App must allow for notes to be moved between folders.
 
 
 Synch and sharing
 ------------------
 
-   * S01 App must allow for the notes to be moved between folders.
-   * S02 App must update notes. *
-   * S03 App should allow note sharing between different platforms. 
-   * S04 App should support multpile platforms (mobile, laptop etc.)
+   * S01 App must be able to recognise when a note has been updated on another platform and synchronise the changes to the device the app is running on.
+   * S02 All notes owned by a user should be viewable on all platforms.
+   * S03 App should support multiple platforms (mobile, laptop etc.)
 
 
 Interface
